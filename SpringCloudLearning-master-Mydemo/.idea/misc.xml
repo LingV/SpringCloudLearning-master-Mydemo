@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/eka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/eureka-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/server-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-hi2/pom.xml" />
+        <option value="$PROJECT_DIR$/../adc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_extra01/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_extra01/server02/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/consul-miya/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
